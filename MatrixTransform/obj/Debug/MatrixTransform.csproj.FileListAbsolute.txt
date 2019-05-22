@@ -1,0 +1,10 @@
+D:\code\visual studio\MatrixTransform\MatrixTransform\bin\Debug\MatrixTransform.exe.config
+D:\code\visual studio\MatrixTransform\MatrixTransform\bin\Debug\MatrixTransform.exe
+D:\code\visual studio\MatrixTransform\MatrixTransform\bin\Debug\MatrixTransform.pdb
+D:\code\visual studio\MatrixTransform\MatrixTransform\obj\Debug\MatrixTransform.csprojAssemblyReference.cache
+D:\code\visual studio\MatrixTransform\MatrixTransform\obj\Debug\MatrixTransform.Properties.Resources.resources
+D:\code\visual studio\MatrixTransform\MatrixTransform\obj\Debug\MatrixTransform.csproj.GenerateResource.cache
+D:\code\visual studio\MatrixTransform\MatrixTransform\obj\Debug\MatrixTransform.csproj.CoreCompileInputs.cache
+D:\code\visual studio\MatrixTransform\MatrixTransform\obj\Debug\MatrixTransform.exe
+D:\code\visual studio\MatrixTransform\MatrixTransform\obj\Debug\MatrixTransform.pdb
+D:\code\visual studio\MatrixTransform\MatrixTransform\obj\Debug\MatrixTransform.Form1.resources
